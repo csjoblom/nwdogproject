@@ -1,2 +1,3 @@
-* Northwest Dog Project Website
+Northwest Dog Project Website
+============
 created by: @csjoblom
